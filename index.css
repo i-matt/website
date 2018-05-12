@@ -1,0 +1,32 @@
+.skills {
+    font-size: 80px !important;
+    max-width: 100% !important;
+}
+
+.future-skills {
+    font-size: 40px !important;
+}
+
+#skills{
+    background-color:#F5F5F5;
+}
+
+.img-to-icon{
+    height: 80px !important;
+    width: 80px !important;
+}
+
+.w3-col s3{
+    padding-bottom: 5px;
+}
+
+/* .mySlides{
+    z-index: 1px;
+    position: absolute;
+  } */
+
+/* .profilePic{
+    z-index: 5;
+    position: absolute;
+    top: -500px;
+} */

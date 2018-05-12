@@ -1,0 +1,8 @@
+function toGithub(){
+
+}
+
+
+function toLinkedIn(){
+
+}
